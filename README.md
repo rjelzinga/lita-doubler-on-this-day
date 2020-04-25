@@ -1,7 +1,7 @@
 # lita-doubler
 
-[![Build Status](https://travis-ci.org/rjelzinga/lita-doubler-on-this-day.png?branch=master)](https://travis-ci.org/rjelzinga/lita-doubler-on-this-day)
-[![Coverage Status](https://coveralls.io/repos/rjelzinga/lita-doubler-on-this-day/badge.png)](https://coveralls.io/r/rjelzinga/lita-doubler-on-this-day)
+[![Build Status](https://travis-ci.org/rjelzinga/lita-doubler-on-this-day.svg?branch=master)](https://travis-ci.org/rjelzinga/lita-doubler-on-this-day)
+[![Coverage Status](https://coveralls.io/repos/rjelzinga/lita-doubler-on-this-day/badge.svg)](https://coveralls.io/r/rjelzinga/lita-doubler-on-this-day)
 
 TODO: Add a description of the plugin.
 
